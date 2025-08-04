@@ -50,7 +50,7 @@ Successfully processes real research questions:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/meta-analysis-ai-backend.git
+   git clone https://github.com/lk4ml/meta-analysis-ai-backend.git
    cd meta-analysis-ai-backend
    ```
 
